@@ -4,4 +4,7 @@ public class main {
         System.out.println("Hello Ouras! Its me, your team member Z. Do you copy?");
         System.out.println("Hello this is Ouras , yes I do copy");
     }
+    static void greeting() {
+        System.out.println("Hello to station X!");
+    }
 }
